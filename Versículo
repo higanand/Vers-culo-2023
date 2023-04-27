@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Proverbios 14:8 - La sabiduría en la práctica</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css">
+    <link rel="stylesheet" href="dist/theme/white.css">
+    <style>
+        /* Estilos personalizados aquí */
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <!-- Diapositiva 1 -->
+            <section>
+                <h1>Proverbios 14:8</h1>
+                <h2>La sabiduría en la práctica</h2>
+            </section>
+            <!-- Diapositiva 2 -->
+            <section>
+                <h2>Proverbio 14:8</h2>
+                <blockquote>
+                    La sabiduría del prudente consiste en entender su propio camino;<br>
+                    Mas la indiscreción de los necios es engaño.
+                </blockquote>
+                <p>Fuente: Proverbios 14:8, versión Reina-Valera 1960 (RVR1960)</p>
+            </section>
+            <!-- Diapositiva 3 -->
+            <section>
+                <h2>Interpretación</h2>
+                <ul>
+                    <li>Entender nuestro propio camino</li>
+                    <li>Indiscreción y engaño</li>
+                </ul>
+            </section>
+            <!-- Diapositiva 4 -->
+            <section>
+                <h2>Aplicación en la vida cotidiana</h2>
+                <ul>
+                    <li>Ser prudentes al tomar decisiones</li>
+                    <li>Reflexionar sobre nuestras acciones</li>
+                    <li>Desarrollar la sabiduría</li>
+                </ul>
+            </section>
+            <!-- Diapositiva 5 -->
+            <section>
+                <h2>Ejemplo práctico</h2>
+                <p>Aquí puedes agregar una historia o ejemplo que ilustre la aplicación del proverbio en la vida real.</p>
+            </section>
+            <!-- Diapositiva 6 -->
+            <section>
+                <h2>Conclusión</h2>
+                <ul>
+                    <li>Recapitulación</li>
+                    <li>Reflexión final</li>
+                </ul>
+            </section>
+        </div>
+    </div>
+    <script src="dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            center: true,
+            slideNumber: true,
+            transition: 'slide',
+            plugins: []
+        });
+    </script>
+</body>
+</html>
